@@ -1,0 +1,4 @@
+## Interface: 90000
+## Title: RaidProfileAutoSwitchFix
+## SavedVariables: RaidProfileAutoSwitchFixConfig
+RaidProfileAutoSwitchFix.lua
